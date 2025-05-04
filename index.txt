@@ -1,1 +1,2 @@
 Merhaba Git!
+Git commit denemesi yapıyorum.
